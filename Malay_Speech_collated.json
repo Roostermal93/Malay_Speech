@@ -8,35 +8,35 @@
             "collectionId": "Malay",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malay/Malay_Speech/a00a8414-a7db-4dab-8892-06e771cbb091/a00a8414-a7db-4dab-8892-06e771cbb091_id_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Malay/a00a8414-a7db-4dab-8892-06e771cbb091_ma_Female.mp4"
         },
         {
             "id": "924285a4-8816-4100-af65-0fde49cc31a8",
             "collectionId": "Malay",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malay/Malay_Speech/924285a4-8816-4100-af65-0fde49cc31a8/924285a4-8816-4100-af65-0fde49cc31a8_id_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Malay/924285a4-8816-4100-af65-0fde49cc31a8_ma_Female.mp4"
         },
         {
             "id": "70a44a07-8628-4b58-aecd-3f35bca208d5",
             "collectionId": "Malay",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malay/Malay_Speech/70a44a07-8628-4b58-aecd-3f35bca208d5/70a44a07-8628-4b58-aecd-3f35bca208d5_ms_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Malay/70a44a07-8628-4b58-aecd-3f35bca208d5_ma_Female.mp4"
         },
         {
             "id": "d6900593-798c-4219-b97c-1f8dc8a8ce64",
             "collectionId": "Malay",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malay/Malay_Speech/d6900593-798c-4219-b97c-1f8dc8a8ce64/d6900593-798c-4219-b97c-1f8dc8a8ce64_ms_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Malay/d6900593-798c-4219-b97c-1f8dc8a8ce64_ma_Female.mp4"
         },
         {
             "id": "1a94b142-b854-466b-abae-1cd7669ba78e",
             "collectionId": "Malay",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malay/Malay_Speech/1a94b142-b854-466b-abae-1cd7669ba78e/1a94b142-b854-466b-abae-1cd7669ba78e_ms_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Malay/1a94b142-b854-466b-abae-1cd7669ba78e_ma_Male.mp4"
         }
     ]
 }
